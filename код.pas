@@ -45,7 +45,7 @@ end;
 begin  
 repeat
 ClrScr;
-WriteLn('Поиск по какой то там теореме математической прямоугольника - 1');
+WriteLn('Поиск по теореме- 1');
 WriteLn('Exit - 0');
 Write('Select program: ');
 ReadLn(n);
